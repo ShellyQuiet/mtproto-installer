@@ -21,7 +21,7 @@ SYSCTL_FILE="/etc/sysctl.d/99-mtproxy-pid.conf"
 
 STATS_PORT="8888"
 AD_DOMAIN="ya.ru"
-AD_TAG="16c963f4b30db707ba3b1789659e43e5"
+AD_TAG="da9400e02d96b1155472bdb7bb0d1ca0"
 WORKERS="2"
 SERVICE_NAME="mtproxy.service"
 
